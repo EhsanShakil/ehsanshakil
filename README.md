@@ -1,5 +1,5 @@
 <h1 align="center">Hello😊, I'm Ahsan Shakeel</h1>
-<h3 align="center">A passionate ReactJs Developer</h3>
+<h3 align="center">A passionate React Native Developer</h3>
 
 - 🔭 I’m currently working on **my own small projects**
 
